@@ -4,4 +4,9 @@ v1.2
 v1.3
 v1.3 fixbug
 v1.3 fixbug v2
+<<<<<<< HEAD
 v1.2 fixbug v3
+=======
+v1.3 dev fixbug
+v1.3 dev fixbug v2
+>>>>>>> 451335f626050d18a891a94aecf6fa11ed1d016e
