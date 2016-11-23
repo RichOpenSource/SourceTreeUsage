@@ -3,6 +3,10 @@ v1.1
 v1.2
 v1.3
 v1.3 fixbug
+<<<<<<< HEAD
 v1.3 fixbug v2
 v1.3 dev fixbug
 v1.3 dev fixbug v2
+=======
+v1.3 fixbug v2
+>>>>>>> a5b23ea29376b9b1150c3c919570af3f0fa8b61e
